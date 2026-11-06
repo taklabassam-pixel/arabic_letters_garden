@@ -1,0 +1,590 @@
+[
+    {
+        "letter": "أَ",
+        "letterName": "أَلِفُنْ",
+        "sound": "أَ",
+        "word": "أَسَدٌ",
+        "id": "alif_fatha"
+    },
+    {
+        "letter": "أُ",
+        "letterName": "أَلِفُنْ",
+        "sound": "أُ",
+        "word": "أُذُنٌ",
+        "id": "alif_damma"
+    },
+    {
+        "letter": "إِ",
+        "letterName": "أَلِفُنْ",
+        "sound": "إِ",
+        "word": "إِبْرِيقٌ",
+        "id": "alif_kasra"
+    },
+    {
+        "letter": "بَ",
+        "letterName": "بَاءُنْ",
+        "sound": "بَ",
+        "word": "بَطَّةٌ",
+        "id": "baa_fatha"
+    },
+    {
+        "letter": "بُ",
+        "letterName": "بَاءُنْ",
+        "sound": "بُ",
+        "word": "بُرْتُقَالٌ",
+        "id": "baa_damma"
+    },
+    {
+        "letter": "بِ",
+        "letterName": "بَاءُنْ",
+        "sound": "بِ",
+        "word": "بِطِّيخٌ",
+        "id": "baa_kasra"
+    },
+    {
+        "letter": "تَ",
+        "letterName": "تَاءُنْ",
+        "sound": "تَ",
+        "word": "تَمْرٌ",
+        "id": "taa_fatha"
+    },
+    {
+        "letter": "تُ",
+        "letterName": "تَاءُنْ",
+        "sound": "تُ",
+        "word": "تُفَّاحٌ",
+        "id": "taa_damma"
+    },
+    {
+        "letter": "تِ",
+        "letterName": "تَاءُنْ",
+        "sound": "تِ",
+        "word": "تِمْسَاحٌ",
+        "id": "taa_kasra"
+    },
+    {
+        "letter": "ثَ",
+        "letterName": "ثَاءُنْ",
+        "sound": "ثَ",
+        "word": "ثَعْلَبٌ",
+        "id": "thaa_fatha"
+    },
+    {
+        "letter": "ثُ",
+        "letterName": "ثَاءُنْ",
+        "sound": "ثُ",
+        "word": "ثُعْبَانٌ",
+        "id": "thaa_damma"
+    },
+    {
+        "letter": "ثِ",
+        "letterName": "ثَاءُنْ",
+        "sound": "ثِ",
+        "word": "ثِيَابٌ",
+        "id": "thaa_kasra"
+    },
+    {
+        "letter": "جَ",
+        "letterName": "جِيمُنْ",
+        "sound": "جَ",
+        "word": "جَمَلٌ",
+        "id": "jeem_fatha"
+    },
+    {
+        "letter": "جُ",
+        "letterName": "جِيمُنْ",
+        "sound": "جُ",
+        "word": "جُبْنٌ",
+        "id": "jeem_damma"
+    },
+    {
+        "letter": "جِ",
+        "letterName": "جِيمُنْ",
+        "sound": "جِ",
+        "word": "جِسْرٌ",
+        "id": "jeem_kasra"
+    },
+    {
+        "letter": "حَ",
+        "letterName": "حَاءُنْ",
+        "sound": "حَ",
+        "word": "حَمَامَةٌ",
+        "id": "haa_fatha"
+    },
+    {
+        "letter": "حُ",
+        "letterName": "حَاءُنْ",
+        "sound": "حُ",
+        "word": "حُدودٌ",
+        "id": "haa_damma"
+    },
+    {
+        "letter": "حِ",
+        "letterName": "حَاءُنْ",
+        "sound": "حِ",
+        "word": "حِصَانٌ",
+        "id": "haa_kasra"
+    },
+    {
+        "letter": "خَ",
+        "letterName": "خَاءُنْ",
+        "sound": "خَ",
+        "word": "خَرُوفٌ",
+        "id": "khaa_fatha"
+    },
+    {
+        "letter": "خُ",
+        "letterName": "خَاءُنْ",
+        "sound": "خُ",
+        "word": "خُبْزٌ",
+        "id": "khaa_damma"
+    },
+    {
+        "letter": "خِ",
+        "letterName": "خَاءُنْ",
+        "sound": "خِ",
+        "word": "خِرَافٌ",
+        "id": "khaa_kasra"
+    },
+    {
+        "letter": "دَ",
+        "letterName": "دَالُنْ",
+        "sound": "دَ",
+        "word": "دَرَّاجَةٌ",
+        "id": "dal_fatha"
+    },
+    {
+        "letter": "دُ",
+        "letterName": "دَالُنْ",
+        "sound": "دُ",
+        "word": "دُبٌّ",
+        "id": "dal_damma"
+    },
+    {
+        "letter": "دِ",
+        "letterName": "دَالُنْ",
+        "sound": "دِ",
+        "word": "دِيكٌ",
+        "id": "dal_kasra"
+    },
+    {
+        "letter": "ذَ",
+        "letterName": "ذَالُنْ",
+        "sound": "ذَ",
+        "word": "ذَرَّةٌ",
+        "id": "dhal_fatha"
+    },
+    {
+        "letter": "ذُ",
+        "letterName": "ذَالُنْ",
+        "sound": "ذُ",
+        "word": "ذُبَابَةٌ",
+        "id": "dhal_damma"
+    },
+    {
+        "letter": "ذِ",
+        "letterName": "ذَالُنْ",
+        "sound": "ذِ",
+        "word": "ذِئْبٌ",
+        "id": "dhal_kasra"
+    },
+    {
+        "letter": "رَ",
+        "letterName": "رَاءُنْ",
+        "sound": "رَ",
+        "word": "رَفٌّ",
+        "id": "raa_fatha"
+    },
+    {
+        "letter": "رُ",
+        "letterName": "رَاءُنْ",
+        "sound": "رُ",
+        "word": "رُمَّانٌ",
+        "id": "raa_damma"
+    },
+    {
+        "letter": "رِ",
+        "letterName": "رَاءُنْ",
+        "sound": "رِ",
+        "word": "رِجْلٌ",
+        "id": "raa_kasra"
+    },
+    {
+        "letter": "زَ",
+        "letterName": "زَايُنْ",
+        "sound": "زَ",
+        "word": "زَرَافَةٌ",
+        "id": "zay_fatha"
+    },
+    {
+        "letter": "زُ",
+        "letterName": "زَايُنْ",
+        "sound": "زُ",
+        "word": "زُهْرِيَّةٌ",
+        "id": "zay_damma"
+    },
+    {
+        "letter": "زِ",
+        "letterName": "زَايُنْ",
+        "sound": "زِ",
+        "word": "زِرٌّ",
+        "id": "zay_kasra"
+    },
+    {
+        "letter": "سَ",
+        "letterName": "سِينُنْ",
+        "sound": "سَ",
+        "word": "سَمَكَةٌ",
+        "id": "seen_fatha"
+    },
+    {
+        "letter": "سُ",
+        "letterName": "سِينُنْ",
+        "sound": "سُ",
+        "word": "سُكَّرٌ",
+        "id": "seen_damma"
+    },
+    {
+        "letter": "سِ",
+        "letterName": "سِينُنْ",
+        "sound": "سِ",
+        "word": "سِنْجَابٌ",
+        "id": "seen_kasra"
+    },
+    {
+        "letter": "شَ",
+        "letterName": "شِينُنْ",
+        "sound": "شَ",
+        "word": "شَمْسٌ",
+        "id": "sheen_fatha"
+    },
+    {
+        "letter": "شُ",
+        "letterName": "شِينُنْ",
+        "sound": "شُ",
+        "word": "شُرْطِيٌّ",
+        "id": "sheen_damma"
+    },
+    {
+        "letter": "شِ",
+        "letterName": "شِينُنْ",
+        "sound": "شِ",
+        "word": "شِفَاهٌ",
+        "id": "sheen_kasra"
+    },
+    {
+        "letter": "صَ",
+        "letterName": "صَادُنْ",
+        "sound": "صَ",
+        "word": "صَقْرٌ",
+        "id": "saad_fatha"
+    },
+    {
+        "letter": "صُ",
+        "letterName": "صَادُنْ",
+        "sound": "صُ",
+        "word": "صُورَةٌ",
+        "id": "saad_damma"
+    },
+    {
+        "letter": "صِ",
+        "letterName": "صَادُنْ",
+        "sound": "صِ",
+        "word": "صِيصَانٌ",
+        "id": "saad_kasra"
+    },
+    {
+        "letter": "ضَ",
+        "letterName": "ضَادُنْ",
+        "sound": "ضَ",
+        "word": "ضَبُعٌ",
+        "id": "daad_fatha"
+    },
+    {
+        "letter": "ضُ",
+        "letterName": "ضَادُنْ",
+        "sound": "ضُ",
+        "word": "ضُبٌّ",
+        "id": "daad_damma"
+    },
+    {
+        "letter": "ضِ",
+        "letterName": "ضَادُنْ",
+        "sound": "ضِ",
+        "word": "ضِرْسٌ",
+        "id": "daad_kasra"
+    },
+    {
+        "letter": "طَ",
+        "letterName": "طَاءُنْ",
+        "sound": "طَ",
+        "word": "طَائِرَةٌ",
+        "id": "taa_alt_fatha"
+    },
+    {
+        "letter": "طُ",
+        "letterName": "طَاءُنْ",
+        "sound": "طُ",
+        "word": "طُيُورٌ",
+        "id": "taa_alt_damma"
+    },
+    {
+        "letter": "طِ",
+        "letterName": "طَاءُنْ",
+        "sound": "طِ",
+        "word": "طِفْلٌ",
+        "id": "taa_alt_kasra"
+    },
+    {
+        "letter": "ظَ",
+        "letterName": "ظَاءُنْ",
+        "sound": "ظَ",
+        "word": "ظَرْفٌ",
+        "id": "zhaa_fatha"
+    },
+    {
+        "letter": "ظُ",
+        "letterName": "ظَاءُنْ",
+        "sound": "ظُ",
+        "word": "ظُفْرٌ",
+        "id": "zhaa_damma"
+    },
+    {
+        "letter": "ظِ",
+        "letterName": "ظَاءُنْ",
+        "sound": "ظِ",
+        "word": "ظِلٌّ",
+        "id": "zhaa_kasra"
+    },
+    {
+        "letter": "عَ",
+        "letterName": "عَيْنُنْ",
+        "sound": "عَ",
+        "word": "عَنْكَبوتٌ",
+        "id": "ain_fatha"
+    },
+    {
+        "letter": "عُ",
+        "letterName": "عَيْنُنْ",
+        "sound": "عُ",
+        "word": "عُصْفُورٌ",
+        "id": "ain_damma"
+    },
+    {
+        "letter": "عِ",
+        "letterName": "عَيْنُنْ",
+        "sound": "عِ",
+        "word": "عِنَبٌ",
+        "id": "ain_kasra"
+    },
+    {
+        "letter": "غَ",
+        "letterName": "غَيْنُنْ",
+        "sound": "غَ",
+        "word": "غَزَالٌ",
+        "id": "ghain_fatha"
+    },
+    {
+        "letter": "غُ",
+        "letterName": "غَيْنُنْ",
+        "sound": "غُ",
+        "word": "غُرَابٌ",
+        "id": "ghain_damma"
+    },
+    {
+        "letter": "غِ",
+        "letterName": "غَيْنُنْ",
+        "sound": "غِ",
+        "word": "غِطَاءٌ",
+        "id": "ghain_kasra"
+    },
+    {
+        "letter": "فَ",
+        "letterName": "فَاءُنْ",
+        "sound": "فَ",
+        "word": "فَرَاشَةٌ",
+        "id": "faa_fatha"
+    },
+    {
+        "letter": "فُ",
+        "letterName": "فَاءُنْ",
+        "sound": "فُ",
+        "word": "فُلَّةٌ",
+        "id": "faa_damma"
+    },
+    {
+        "letter": "فِ",
+        "letterName": "فَاءُنْ",
+        "sound": "فِ",
+        "word": "فِيلٌ",
+        "id": "faa_kasra"
+    },
+    {
+        "letter": "قَ",
+        "letterName": "قَافُنْ",
+        "sound": "قَ",
+        "word": "قَمَرٌ",
+        "id": "qaaf_fatha"
+    },
+    {
+        "letter": "قُ",
+        "letterName": "قَافُنْ",
+        "sound": "قُ",
+        "word": "قُـبَّعَةٌ",
+        "id": "qaaf_damma"
+    },
+    {
+        "letter": "قِ",
+        "letterName": "قَافُنْ",
+        "sound": "قِ",
+        "word": "قِـرْدٌ",
+        "id": "qaaf_kasra"
+    },
+    {
+        "letter": "كَ",
+        "letterName": "كَافُنْ",
+        "sound": "كَ",
+        "word": "كَلْبٌ",
+        "id": "kaaf_fatha"
+    },
+    {
+        "letter": "كُ",
+        "letterName": "كَافُنْ",
+        "sound": "كُ",
+        "word": "كُرَةٌ",
+        "id": "kaaf_damma"
+    },
+    {
+        "letter": "كِ",
+        "letterName": "كَافُنْ",
+        "sound": "كِ",
+        "word": "كِتَابٌ",
+        "id": "kaaf_kasra"
+    },
+    {
+        "letter": "لَ",
+        "letterName": "لَامُنْ",
+        "sound": "لَ",
+        "word": "لَيْثٌ",
+        "id": "lam_fatha"
+    },
+    {
+        "letter": "لُ",
+        "letterName": "لَامُنْ",
+        "sound": "لُ",
+        "word": "لُعْبَةٌ",
+        "id": "lam_damma"
+    },
+    {
+        "letter": "لِ",
+        "letterName": "لَامُنْ",
+        "sound": "لِ",
+        "word": "لِسَانٌ",
+        "id": "lam_kasra"
+    },
+    {
+        "letter": "مَ",
+        "letterName": "مِيمُنْ",
+        "sound": "مَ",
+        "word": "مَوْزٌ",
+        "id": "meem_fatha"
+    },
+    {
+        "letter": "مُ",
+        "letterName": "مِيمُنْ",
+        "sound": "مُ",
+        "word": "مُخْتَبَرٌ",
+        "id": "meem_damma"
+    },
+    {
+        "letter": "مِ",
+        "letterName": "مِيمُنْ",
+        "sound": "مِ",
+        "word": "مِقصٌّ",
+        "id": "meem_kasra"
+    },
+    {
+        "letter": "نَ",
+        "letterName": "نُونُنْ",
+        "sound": "نَ",
+        "word": "نَمِرٌ",
+        "id": "noon_fatha"
+    },
+    {
+        "letter": "نُ",
+        "letterName": "نُونُنْ",
+        "sound": "نُ",
+        "word": "نُجُومٌ",
+        "id": "noon_damma"
+    },
+    {
+        "letter": "نِ",
+        "letterName": "نُونُنْ",
+        "sound": "نِ",
+        "word": "تِصْفٌ",
+        "id": "noon_kasra"
+    },
+    {
+        "letter": "هَ",
+        "letterName": "هَاءُنْ",
+        "sound": "هَ",
+        "word": "هَدِيَّةٌ",
+        "id": "haa_alt_fatha"
+    },
+    {
+        "letter": "هُ",
+        "letterName": "هَاءُنْ",
+        "sound": "هُ",
+        "word": "هُدْهُدٌ",
+        "id": "haa_alt_damma"
+    },
+    {
+        "letter": "هِ",
+        "letterName": "هَاءُنْ",
+        "sound": "هِ",
+        "word": "هيلٌ",
+        "id": "haa_alt_kasra"
+    },
+    {
+        "letter": "وَ",
+        "letterName": "وَاوُنْ",
+        "sound": "وَ",
+        "word": "وَرْدَةٌ",
+        "id": "waw_fatha"
+    },
+    {
+        "letter": "وُ",
+        "letterName": "وَاوُنْ",
+        "sound": "وُ",
+        "word": "وُصُولٌ",
+        "id": "waw_damma"
+    },
+    {
+        "letter": "وِ",
+        "letterName": "وَاوُنْ",
+        "sound": "وِ",
+        "word": "وِسَادَةٌ",
+        "id": "waw_kasra"
+    },
+    {
+        "letter": "يَ",
+        "letterName": "يَاءُنْ",
+        "sound": "يَ",
+        "word": "يَدٌ",
+        "id": "yaa_fatha"
+    },
+    {
+        "letter": "يُ",
+        "letterName": "يَاءُنْ",
+        "sound": "يُ",
+        "word": "يُوسُفِيٌّ",
+        "id": "yaa_damma"
+    },
+    {
+        "letter": "يِ",
+        "letterName": "يَاءُنْ",
+        "sound": "يِ",
+        "word": "يِينَاعٌ",
+        "id": "yaa_kasra"
+    }
+]
