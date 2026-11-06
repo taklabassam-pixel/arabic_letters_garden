@@ -37601,7 +37601,7 @@ q.aS()
 s=A.af8()
 q.w!==$&&A.b7()
 q.w=s
-r=new A.HH("video/koko_welcome.mp4",B.Tw,$.aC())
+r=new A.HH("assets/video/koko_welcome.mp4",B.Tw,$.aC())
 r.f8().b_(new A.aaF(q),t.P)
 q.x=r
 s=s.CW
